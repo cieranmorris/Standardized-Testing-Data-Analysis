@@ -3,7 +3,7 @@
 ## PyCitySchools Performance Analysis
 
 ### Background Information 
-In this theoretical application, I assumed the role as Chief Data Scientist for a city's school district who was tasked to analyze the district-wide standardized test results. Provided datasets included every student's math and reading scores, as well as various information on the schools they attend. In this project, I successfully aggregated the data and showcased obvious trends in school performance in order advise strategic decisions regarding future school budgets and priorities.
+In this theoretical application, I assumed the role as Chief Data Scientist for a city's school district -- in this role, I was tasked to analyze the district-wide standardized test results. Provided datasets included every student's math and reading scores, as well as various information on the schools they attend. In this project, I successfully aggregated the data and showcased obvious trends in school performance in order advise strategic decisions regarding future school budgets and priorities.
 
 Subsequent sections of statistical analyses and dataframe visualizations are as follows:
 
@@ -35,7 +35,7 @@ Subsequent sections of statistical analyses and dataframe visualizations are as 
 
 ### Top Performing Schools (By % Overall Passing)
 
-* Once eahc school was individually analyzed, I created a table that highlights the top 5 performing schools based on % Overall Passing. This analysis includes:
+* Once each school was individually analyzed, I created a table that highlights the top 5 performing schools based on % Overall Passing. This analysis includes:
   * School Name
   * School Type
   * Total Students
