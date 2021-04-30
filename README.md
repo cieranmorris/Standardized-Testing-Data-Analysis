@@ -19,6 +19,8 @@ Subsequent sections of statistical analyses and dataframe visualizations are as 
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
+![District](Images/district_summary)
+
 ### School Summary
 
 * I dove deeper in the analysis to provide an overview table that summarizes key metrics about each school, including:
@@ -32,6 +34,8 @@ Subsequent sections of statistical analyses and dataframe visualizations are as 
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
+
+![School](Images/school_summary)
 
 ### Top Performing Schools (By % Overall Passing)
 
@@ -47,13 +51,19 @@ Subsequent sections of statistical analyses and dataframe visualizations are as 
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
+![Top](Images/top_performing_schools)
+
 ### Bottom Performing Schools (By % Overall Passing)
 
 * In comparison, I created a table that highlights the bottom 5 performing schools based on % Overall Passing. This analysis includes all of the same metrics as above.
 
+![Bottom](Images/bottom_performing_schools)
+
 ### Math Scores by Grade
 
 * In order to observe core math performances, I created a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
+![Math](Images/math_scores_grade)
 
 ### Reading Scores by Grade
 
