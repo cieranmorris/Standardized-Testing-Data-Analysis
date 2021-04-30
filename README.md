@@ -19,7 +19,7 @@ Subsequent sections of statistical analyses and dataframe visualizations are as 
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
-![District](Images/district_summary)
+![District](Images/district_summary.png)
 
 ### School Summary
 
