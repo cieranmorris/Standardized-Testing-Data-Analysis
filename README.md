@@ -69,6 +69,8 @@ Subsequent sections of statistical analyses and dataframe visualizations are as 
 
 * To alternately observe core reading performances, I created a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
+![Reading](Images/reading_scores_grade.png)
+
 ### Scores by School Spending
 
 * An important aspect of this analysis was to observe standardized test perfomance in comparison to each school's spending ranges, school size, and school type. I created a table that breaks down school performances based on average Spending Ranges (per student) that was divided into four appropriate categories:
@@ -78,13 +80,19 @@ Subsequent sections of statistical analyses and dataframe visualizations are as 
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
+![Spending](Images/scores_school_spending.png)
+
 ### Scores by School Size
 
 * I repeated the same analysis breakdown as above but focused primarily on relation to school size (Small, Medium, Large).
 
+![Size](Images/scores_school_size.png)
+
 ### Scores by School Type
 
 * I repeated the same analysis breakdown as above but focused primarily on relation to school type (Charter vs. District).
+
+![Type](Images/scores_school_type.png)
 
 
 ### Copyright
